@@ -1,0 +1,9 @@
+{
+    "app": {
+        "isDir": true,
+        "folder": {
+            "isDir": false,
+            "file": "index.php"
+        } 
+    }
+}
